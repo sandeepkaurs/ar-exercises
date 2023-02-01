@@ -14,7 +14,7 @@ We'll be modifying this database via Active Record only. The `setup.rb` file alr
 That said, feel free to connect to your Postgres database using `psql` or pgAdmin so that you can see what's in the database.
 
 ## Instructions
-
+ 
 ### Setup
 
 1. Create a new Postgres database. Use `psql postgres` to connect to the database server. Use `create database ar_exercises;` to create the database.
